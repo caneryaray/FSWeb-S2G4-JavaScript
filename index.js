@@ -140,3 +140,5 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
+
+ console.log("caner kendi  kodunu ekledi");
